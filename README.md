@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <head>
     <meta charset="UTF-8">
-    <title>😎 Abdel site dyaalo 😎</title>
+    <title>😎 Abdel Resume 😎</title>
     <link rel="stylesheet" href="css\styles.css">
 </head>
 <body>
