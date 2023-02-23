@@ -2,6 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <title>😎 Abdel site dyaalo 😎</title>
+    <link rel="stylesheet" href="css\styles.css">
 </head>
 <body>
     <table cellspasing="10">
@@ -14,7 +15,7 @@
     </table>
     <p> My name is Abdel and I'm 30 years old after a long career in accounting I have decide to swith my career and start a new challenge by learning software development </p> 
     
-        <hr size="3" noshade>
+        <hr>
         <h3> Education and career </h3>    
         <p> Master degree in finance and accounting. More than 7 years experience in different Multinational. </p>
     <h3>Knowledge in accounting</h3>
